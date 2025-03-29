@@ -1,0 +1,26 @@
+{
+  "name": "lucs-autowaschhaus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/head": "^2.0.0",
+    "cssnano": "^7.0.6",
+    "vite-plugin-pages": "^0.32.5",
+    "vite-plugin-sitemap": "^0.7.1",
+    "vue": "^3.4.0",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^5.0.0"
+  }
+}
